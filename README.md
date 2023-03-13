@@ -1,15 +1,15 @@
-Shark-attack-project
-Data wrangling - Data Visualization
+# Shark-attack-project
+## Data cleaning & wrangling - Data Visualization
 
 Realizado por Ubaldo Hervás y Laura Martín / Diciembre-22
 
-1. Introducción
+### 1. Introducción
 
 ¿Qué oportunidades hay en el mundo de los seguros para ataques de tiburón? ¿Se pueden crear seguros específicos en función de edad, países, género o actividad? ¿Qué perfiles son más proclives a sufrir un ataque de tiburón? ¿Cómo podemos usar Data Wrangling y Data Visualization para responder a estas preguntas?
 Para este caso se ha utilizado un archivo CSV que recoge más de 25.000 casos de ataque de tiburón registrados desde mediados del siglo XIX y en el que se puede extraer información de valor como, por ejemplo, si el ataque ha sido fatal o no, el tipo de actividad que se realiza durante el ataque, si era provocado o no, país donde sucedió el ataque, entre otros.
 Para poner foco en el proceso de limpieza y visualización de datos, se decide simular un caso ficticio, en el que una agencia de viajes quiere ofrecer seguros específicos a aquellos clientes que quieran realizar actividades con riesgo de recibir un ataque de tiburón. Para ello, contrata a una consultora de data analytics para hallar oportunidades en este nicho.
 
-2. Objetivo y pasos del proyectos
+### 2. Objetivo y pasos del proyectos
 El objetivo principal es extraer insights y oportunidades para el desarrollo de servicios de seguros de viajes para nuestro cliente. Para ello se inicia un proceso de data wrangling y data visualization.
 
 2.1. Definir preguntas de investigación
@@ -30,7 +30,7 @@ También se realizaron funciones para trabajar de forma más eficiente algunos p
 
 Una vez se finaliza el proceso de data wrangling se procede al proceso de visualización de datos para obtener insights y oportunidades. Para esto, hemos utilizado la librería seaborn.
 
-3. Tecnología utilizada
+### 3. Tecnología utilizada
 
 Lenguaje de programación
 - Python
